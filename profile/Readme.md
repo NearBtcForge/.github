@@ -4,6 +4,8 @@
 
 ## NearBTCForge is a decentralized application enabling trustless, cross-chain swaps between Ethereum NFTs and Bitcoin Ordinals. Built on NEAR Protocol, NearBTCForge leverages NEAR's scalability, speed, and security, making it easy and cost-effective to bridge assets across chains.
 
+## Testnet address : nearbtcethswap.testnet
+
 ## 🚀 Features
 ### Cross-Chain NFT & Ordinal Swaps: Exchange assets between Ethereum and Bitcoin without centralized intermediaries.
 ### Secure Escrow System: Uses NEAR-based escrow contracts to hold assets until the swap is confirmed, ensuring a safe trading experience.
